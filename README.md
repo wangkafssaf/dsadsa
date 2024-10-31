@@ -18,9 +18,8 @@ Node.js and npm
 npm install
 cd CA4
 node server.js
+
 ![1730391107688(1)](https://github.com/user-attachments/assets/6a9fec1a-3462-4cb3-8df6-9c974dc7f059)
-
-
 
 ## Project Structure
 
