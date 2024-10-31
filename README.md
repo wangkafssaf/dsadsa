@@ -18,11 +18,12 @@ Node.js and npm
 npm install
 cd CA4
 node server.js
-![1730390785165](https://github.com/user-attachments/assets/673351fb-4a5c-4085-88ba-8e05824f59a8)
+![1730391107688(1)](https://github.com/user-attachments/assets/22d582b2-afea-49a7-9b6f-e6fc57eb1bfc)
 
 ## Project Structure
 
-![1730391003855](https://github.com/user-attachments/assets/c7be55b9-b85c-4ace-a744-f473da4540ce)
+![1730391111910](https://github.com/user-attachments/assets/e7493b06-0024-4f3d-9a56-beeba0f9bf42)
+
 
 public – Contains HTML files, CSS files, and JavaScript for frontend.
 
